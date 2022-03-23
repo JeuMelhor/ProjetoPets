@@ -1,0 +1,15 @@
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\bin\Debug\net6.0\ProjetoPets.exe
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\bin\Debug\net6.0\ProjetoPets.deps.json
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\bin\Debug\net6.0\ProjetoPets.runtimeconfig.json
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\bin\Debug\net6.0\ProjetoPets.dll
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\bin\Debug\net6.0\ref\ProjetoPets.dll
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\bin\Debug\net6.0\ProjetoPets.pdb
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.csproj.AssemblyReference.cache
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.AssemblyInfoInputs.cache
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.AssemblyInfo.cs
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.csproj.CoreCompileInputs.cache
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.dll
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ref\ProjetoPets.dll
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.pdb
+C:\Users\Jessi\Documents\EstudosTecnologia\C#\DS II\ProjetoPets\obj\Debug\net6.0\ProjetoPets.genruntimeconfig.cache
